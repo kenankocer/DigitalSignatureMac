@@ -7,7 +7,7 @@ JRE (Java Runtime Environment) . Bu kütüphaneyi aşağıdaki linkten cihaz tü
 
 İndirme sayfası : https://www.java.com/tr/download/manual.jsp
 
-Yukarıdaki linkten Java'yı indirdikten sonra indirilenler klasörünüzde klasörünüzde görseldekine benzer bir kurulum dosyası olacaktır. Bu kurulum dosyasını açınız.
+Yukarıdaki linkten Java'yı indirdikten sonra indirilenler klasörünüzde görseldekine benzer bir kurulum dosyası olacaktır. Bu kurulum dosyasını açınız.
 
 ![title](Images/Mac/resim1.png)
 
@@ -16,7 +16,7 @@ Bu kurulum dosyasını açtığınızda ilgili java paketi açılacaktır.
 
 ![title](Images/Mac/resim2.png)
 
-Bu paketi çift tılayarak açın.
+Bu paketi çift tıklayarak açın.
 
 ![title](Images/Mac/resim3.png)
 
@@ -48,7 +48,7 @@ Gelen ekranda gördüğünüz terminal uygulamasını açın.
 
 ![title](Images/Mac/resim7.png)
 
-Karşınıza yukardaki görseldekine benzer gibi bir ekran gelecektir.
+Karşınıza yukarıdaki görseldekine benzer gibi bir ekran gelecektir.
 
 Bu ekranda şu komutu yazın :
 ```sh 
@@ -65,11 +65,11 @@ Ardından Setup Files klasöründeki DSClientMac.sh dosyasını tutup bu ekrana 
 
 Kod satırı yukardaki örneğe benzer şekilde görülecektir. Tek fark dosya konumunuz olacaktır.
 Kod satırının sonudaki 1 adet boşluğu silmeniz gerekmektedir.
-Ardından Entr'a basarak komutu uygulayın.
+Ardından Enter'a basarak komutu uygulayın.
 
 ![title](Images/Mac/resim8.png)
 
-İşlem başarılı olması durumunda Terminal görüntüsü yukardaki görseldeki gibi olacak ve terminal bir alt satıra geçecektir.
+İşlem başarılı olması durumunda Terminal görüntüsü yukarıdaki görseldeki gibi olacak ve terminal bir alt satıra geçecektir.
 Herhangi bir sorunla karşılaşmanız halinde program kendi işlem ve hata kayıtlarını oluşturmaktadır. Bu dosyalardaki kayıt mesajlarını iletmeniz durumunda sorunlarınız daha hızlı çözüme kavuşacaktır.
 
 
